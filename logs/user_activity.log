@@ -1,0 +1,91 @@
+2024-01-23T03:53:40.692Z: Test log entry
+2024-01-23T03:56:02.384Z: Test log entry
+2024-01-23T04:04:49.990Z: 
+2024-01-23T04:10:43.594Z: Test log entry
+2024-01-23T04:21:21.804Z: Test log entry
+2024-01-23T04:21:36.359Z: Test log entry
+2024-01-23T04:21:38.492Z: Test log entry
+2024-01-23T04:21:41.002Z: Test log entry
+2024-01-23T04:21:43.366Z: Test log entry
+2024-01-23T04:21:45.769Z: Test log entry
+2024-01-23T04:21:50.154Z: Test log entry
+2024-01-23T04:21:53.738Z: Test log entry
+2024-01-23T04:23:54.138Z: Test log entry
+2024-01-23T04:25:05.530Z: Test log entry
+2024-01-23T04:28:06.021Z: Test log entry
+2024-01-23T04:28:10.674Z: Test log entry
+2024-01-23T04:28:52.431Z: Test log entry
+2024-01-23T04:29:39.952Z: Test log entry
+2024-01-23T04:30:00.394Z: User logged out
+2024-01-23T04:30:00.647Z: User logged out
+2024-01-23T04:30:00.731Z: User logged out
+2024-01-23T04:30:21.981Z: User created: undefined (papa@gmail.com)
+2024-01-23T04:30:21.984Z: User logged in: undefined (papa@gmail.com)
+2024-01-23T04:30:22.412Z: User with ID 65af40ddd01ad6b7cbed0f4f fetched
+2024-01-23T04:31:55.164Z: Test log entry
+2024-01-23T04:31:58.136Z: Test log entry
+2024-01-23T04:32:01.491Z: Test log entry
+2024-01-23T04:33:28.418Z: Test log entry
+2024-01-23T04:35:48.306Z: User logged out
+2024-01-23T04:35:48.545Z: User logged out
+2024-01-23T04:35:48.632Z: User logged out
+2024-01-23T04:48:42.805Z: User logged in: undefined (papa@gmail.com)
+2024-01-23T04:48:43.035Z: User with ID 65af40ddd01ad6b7cbed0f4f fetched their cart items
+2024-01-23T04:48:43.275Z: User with ID 65af40ddd01ad6b7cbed0f4f fetched
+2024-01-23T04:49:15.460Z: Product added to cart by user with ID 65af40ddd01ad6b7cbed0f4f
+2024-01-23T04:49:35.219Z: Product deleted from cart with ID 65af40f9d01ad6b7cbed0f68
+2024-01-23T04:51:01.692Z: User with ID 65af40ddd01ad6b7cbed0f4f updated
+2024-01-23T04:51:29.530Z: Order created for user with ID 65af40ddd01ad6b7cbed0f4f
+2024-01-23T04:51:31.095Z: Error creating order for user with ID 65af40ddd01ad6b7cbed0f4f: Missing credentials for "PLAIN"
+2024-01-23T04:51:43.417Z: Order created for user with ID 65af40ddd01ad6b7cbed0f4f
+2024-01-23T04:51:44.683Z: Error creating order for user with ID 65af40ddd01ad6b7cbed0f4f: Missing credentials for "PLAIN"
+2024-01-23T04:52:10.259Z: Product deleted from cart with ID 65af454b47e89c82001ca423
+2024-01-23T04:52:26.990Z: Product added to cart by user with ID 65af40ddd01ad6b7cbed0f4f
+2024-01-23T04:52:42.607Z: Order created for user with ID 65af40ddd01ad6b7cbed0f4f
+2024-01-23T04:52:43.864Z: Error creating order for user with ID 65af40ddd01ad6b7cbed0f4f: Missing credentials for "PLAIN"
+2024-01-23T04:53:38.448Z: Order created for user with ID 65af40ddd01ad6b7cbed0f4f
+2024-01-23T04:53:39.702Z: Error creating order for user with ID 65af40ddd01ad6b7cbed0f4f: Missing credentials for "PLAIN"
+2024-01-23T04:55:00.530Z: User with ID 65af40ddd01ad6b7cbed0f4f updated
+2024-01-23T04:55:09.302Z: Order created for user with ID 65af40ddd01ad6b7cbed0f4f
+2024-01-23T04:55:10.592Z: Error creating order for user with ID 65af40ddd01ad6b7cbed0f4f: Missing credentials for "PLAIN"
+2024-01-23T05:06:59.574Z: Order created for user with ID 65af40ddd01ad6b7cbed0f4f
+2024-01-23T05:07:01.090Z: Error creating order for user with ID 65af40ddd01ad6b7cbed0f4f: Missing credentials for "PLAIN"
+2024-01-23T07:48:05.522Z: User logged out
+2024-01-23T07:48:05.774Z: User logged out
+2024-01-23T07:48:05.853Z: User logged out
+2024-01-23T07:48:24.950Z: User logged in: undefined (raja@gmail.com)
+2024-01-23T07:48:25.459Z: User with ID 65a258a91640aa952ac5983f fetched their cart items
+2024-01-23T07:48:25.515Z: User with ID 65a258a91640aa952ac5983f fetched
+2024-01-23T07:49:18.118Z: Authentication check successful: undefined (undefined)
+2024-01-23T07:49:18.446Z: Authentication check successful: undefined (undefined)
+2024-01-23T07:49:18.555Z: User with ID 65a258a91640aa952ac5983f fetched their cart items
+2024-01-23T07:49:18.564Z: User with ID 65a258a91640aa952ac5983f fetched
+2024-01-23T07:49:18.729Z: User with ID 65a258a91640aa952ac5983f fetched their cart items
+2024-01-23T07:49:18.940Z: User with ID 65a258a91640aa952ac5983f fetched
+2024-01-23T07:49:31.270Z: User with ID 65a258a91640aa952ac5983f fetched their orders
+2024-01-23T07:49:31.606Z: User with ID 65a258a91640aa952ac5983f fetched their orders
+2024-01-23T07:49:36.704Z: All orders fetched successfully
+2024-01-23T07:49:36.966Z: All orders fetched successfully
+2024-01-23T07:49:48.918Z: All orders fetched successfully
+2024-01-23T07:49:49.254Z: All orders fetched successfully
+2024-01-23T07:49:54.332Z: All orders fetched successfully
+2024-01-23T07:49:54.593Z: All orders fetched successfully
+2024-01-23T07:50:01.076Z: Order updated with ID 65af45d147e89c82001ca42b
+2024-01-23T07:50:19.664Z: Order updated with ID 65af45df47e89c82001ca431
+2024-01-23T07:50:33.248Z: Product deleted from cart with ID 65af3be102b5b24c984ec817
+2024-01-23T07:52:18.262Z: User logged out
+2024-01-23T07:52:18.534Z: User logged out
+2024-01-23T07:52:18.578Z: User logged out
+2024-01-23T07:52:48.566Z: Password reset requested for: papa@gmail.com
+2024-01-23T08:01:17.478Z: User logged in: undefined (papa@gmail.com)
+2024-01-23T08:01:17.943Z: User with ID 65af40ddd01ad6b7cbed0f4f fetched
+2024-01-23T08:01:17.955Z: User with ID 65af40ddd01ad6b7cbed0f4f fetched their cart items
+2024-01-23T08:09:26.333Z: User logged out
+2024-01-23T08:09:26.662Z: User logged out
+2024-01-23T08:09:26.903Z: User logged out
+2024-01-23T08:19:34.229Z: User logged in: undefined (raja@gmail.com)
+2024-01-23T08:19:34.359Z: User with ID 65a258a91640aa952ac5983f fetched their cart items
+2024-01-23T08:19:34.669Z: User with ID 65a258a91640aa952ac5983f fetched
+2024-01-23T08:21:10.718Z: User logged out
+2024-01-23T08:21:10.981Z: User logged out
+2024-01-23T08:21:11.043Z: User logged out
